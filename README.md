@@ -4,7 +4,7 @@
 A responsive web application featuring user authentication and an interactive data table with sorting and filtering capabilities.
 
 ## 🔗 Quick Links
-- [Live Demo](#)(https://sahil-ful-io.vercel.app)
+- [Live Demo](https://sahil-ful-io.vercel.app)
 - [Portfolio](https://sahil-bhoite.github.io/Portfolio/)
 
 ## ✨ Features
