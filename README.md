@@ -1,11 +1,11 @@
 # Interactive Data Table Application
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/project)
+[![Deploy with Vercel](https://vercel.com/button)]([https://vercel.com/new/project](https://sahil-ful-io.vercel.app))
 
 A responsive web application featuring user authentication and an interactive data table with sorting and filtering capabilities.
 
 ## 🔗 Quick Links
-- [Live Demo](#) (Replace with your deployed application URL)
+- [Live Demo](#)(https://sahil-ful-io.vercel.app)
 - [Portfolio](https://sahil-bhoite.github.io/Portfolio/)
 
 ## ✨ Features
